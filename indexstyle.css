@@ -16,6 +16,9 @@
     padding-top: 20px;
     text-align: justify;
     color: black;
+    margin: auto;
+    min-width: 600px;
+    max-width: 2000px
 }
 
 .topnav {
